@@ -12,7 +12,7 @@
   "dependencies": {
     "connect": "^3.7.0",
     "harmon": "^1.4.4",
-    "http-proxy": "^1.18.0"
+    "http-proxy": "^1.18.1"
   },
   "devDependencies": {
     "eslint": "^6.8.0"
